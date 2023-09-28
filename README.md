@@ -1,6 +1,6 @@
 ### Hi there 👋, my name is Razib
 #### I am a professional web designer and developer
-	https://media.licdn.com/dms/image/C5603AQEotuAAawz-yA/profile-displayphoto-shrink_400_400/0/1629527386325?e=1692230400&v=beta&t=wU_xgWBG5NSodaPjudtKxxM6H2X6FtPfXZMv85gD-1Q
+	https://i.ibb.co/Xkyf0N2/raziib.jpg
 
 Hi! My name is razib ahmed . I am a web developer, and I'm very passionate and dedicated to my work. With many years of experience as a professional web developer, I have acquired the skills and knowledge necessary to make your project a success. I enjoy every step of the design process, from discussion and collaboration.
 
