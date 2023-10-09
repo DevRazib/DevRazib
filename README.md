@@ -2,7 +2,7 @@
 #### I am a professional web designer and developer
 	
  <p align="center">
- <img src="raziib.jpg" alt="razib" style="height: 400px;"/>
+ <img src="raziib.jpg" alt="razib" style="height: 400px; width:100%"/>
 </p>
 
 Hi! My name is razib ahmed . I am a web developer, and I'm very passionate and dedicated to my work. With many years of experience as a professional web developer, I have acquired the skills and knowledge necessary to make your project a success. I enjoy every step of the design process, from discussion and collaboration.
