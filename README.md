@@ -1,7 +1,10 @@
 ### Hi there 👋, my name is Razib
 #### I am a professional web designer and developer
 	
- [<img src="https://i.ibb.co/Xkyf0N2/raziib.jpg">]
+ <p align="center">
+  <img src="https://i.ibb.co/Xkyf0N2/raziib.jpg" width="350" title="hover text">
+  <img src="https://i.ibb.co/Xkyf0N2/raziib.jpg" width="350" alt="accessibility text">
+</p>
 
 Hi! My name is razib ahmed . I am a web developer, and I'm very passionate and dedicated to my work. With many years of experience as a professional web developer, I have acquired the skills and knowledge necessary to make your project a success. I enjoy every step of the design process, from discussion and collaboration.
 
